@@ -64,14 +64,19 @@ Memhash Bot is an advanced automation tool designed to streamline account regist
 
 ### 🔑 Keywords
 
-- Oasis-Reger
-- Oasis-Farmer
-- Oasis-Miner
-- Oasis-Multireger
-- Oasis-Multifarmer
-- Oasis-AutoFarm
-- Oasis-Extension-Bot
-- Oasis-Bot
-- Oasis-Multiwallet
+- Memhash-Reger
+- Memhash-Farmer
+- Memhash-Miner
+- Memhash-Multireger
+- Memhash-Multifarmer
+- Memhash-Extension-Bot
+- Memhash-Bot
+- Memhash-Multiwallet
+- Memhash-AutoFarm
+- Memhash-multibot
+- Memhash-software
+- Memhash-BotMiner
+- Memhash-software
+
 
 ---
